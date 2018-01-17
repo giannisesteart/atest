@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Aa\\Atest\\" : "src"
+		}
+	},
+	"name" : "aa/atest",
+	"require" : {
+		"php" : ">=7.1"
+	}
+}
