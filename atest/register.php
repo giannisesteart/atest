@@ -1,8 +1,8 @@
  <?php
 /*
  * PASSBBOOK REST Api Version 1.0
- * Case of access
- * Call from Appla
+ * Case of access Restapi
+ * Call from Apple
  */
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     require ('registerpost.php');
